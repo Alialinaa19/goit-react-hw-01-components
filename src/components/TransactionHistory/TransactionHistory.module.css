@@ -1,0 +1,19 @@
+.transactionHistory {
+    width: 68%;
+    margin-top: 40px;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    
+}
+
+table th,
+table td {
+    padding: 10px;
+    border: 3px solid rgb(86, 92, 90);
+    text-align: center;
+
+}

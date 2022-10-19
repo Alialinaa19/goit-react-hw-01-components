@@ -1,0 +1,47 @@
+.profile {
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+border-radius: 4px;
+background-color: gainsboro;
+width: 65%;
+padding: 20px;
+}
+.stats {
+    display: flex; 
+    justify-content: center;
+    margin-top: 20px;
+    background-color: rgb(86, 92, 90);
+    color: aliceblue;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 60px;
+   
+}
+
+.label {
+    margin-right: 15px; 
+    padding: 5px;
+}
+
+.quantity {
+    padding-right: 15px;  
+    font-weight: bold;
+}
+
+.itemOfStat {
+    border: #1a1818 1px solid;
+    width: calc(100% / 3);
+    text-align: center;
+}
+
+.avatarImg {
+    border-radius: 50%;
+    border: #1b1a1a 4px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.userInfo {
+    text-align: center;
+}
